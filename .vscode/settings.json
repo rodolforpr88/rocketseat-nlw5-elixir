@@ -1,0 +1,5 @@
+{
+  "elixir.credo.ignoreWarningMessages": true,
+  "elixir.credo.executePath": "/home/rodolforpr/.asdf/shims",
+  "elixir.credo.strictMode": true
+}
